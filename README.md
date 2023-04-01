@@ -6,7 +6,7 @@ Este repositorio contiene solucion a los diferentes ejercicios de Codewars en lo
 
 ```bash
 git clone https://github.com/Angel5112/CodeWars.git
-cd Codewars
+cd CodeWars
 cd Java/Python
 python3 exerciseName.py / Run con archivos .java
 ```
