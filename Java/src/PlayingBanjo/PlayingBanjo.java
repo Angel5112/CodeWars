@@ -11,8 +11,8 @@ package PlayingBanjo;
 public class PlayingBanjo {
 
     public static String areYouPlayingBanjo(String name) {
-        if (name.charAt(0) == 'r' || name.charAt(0) == 'R'){
-            return name + " plays banjo";
+        if (name.charAt(0) == 'r' || name.charAt(0) == 'R'){        // There is no Indexing in Java String
+            return name + " plays banjo";                           // Use predefined methods to get the data of any specific index
         } else  {
             return name + " does not play banjo";
         }
